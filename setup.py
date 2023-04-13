@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='wasm',
-    version='1.2',
+    version='1.2.1',
     packages=['wasm'],
     url='https://github.com/athre0z/wasm',
     download_url='https://github.com/athre0z/wasm/archive/v1.2.tar.gz',

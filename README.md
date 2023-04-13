@@ -1,9 +1,11 @@
 ### ❗ Important
 
-Unfortunately, I currently don't have the time to maintain or update this 
+I am not the original maintainer. I would only keep this project compatible with newer versions of Python, but not add new features.
+
+~~Unfortunately, I currently don't have the time to maintain or update this 
 project. While there is a chance that I might revive it at some point, you
 really shoudldn't count on that. Please feel free to fork or just take
-anything that looks useful!
+anything that looks useful!~~
 
 wasm
 ====
@@ -160,5 +162,8 @@ dumping all module struct in sexy tree format. Optionally, it also
 disassembles all functions found when invoked with `--disas` (slow).
 
 ### Version support
-The library was successfully tested on Python 2.7, Python 3.7 and
-PyPy 5.4.
+
+The library was successfully tested on Python 3.10
+
+~~The library was successfully tested on Python 2.7, Python 3.7 and
+PyPy 5.4~~

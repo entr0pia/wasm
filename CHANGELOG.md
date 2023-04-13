@@ -1,3 +1,7 @@
+### v1.2 -> v1.2.1
+
+- Compatible with Python 3.10
+
 ### v1.1 -> v1.2
 
 - Added formatting for mutability (contributed by [@AtlasQuan])
