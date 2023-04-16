@@ -22,11 +22,8 @@ way similar to how Google Chrome does in the debug console.
 ### Installation
 
 ```
-# From PyPi
-pip install wasm
-
 # From GitHub
-pip install git+https://github.com/athre0z/wasm.git
+pip install git+https://github.com/entr0pia/wasm.git
 ```
 
 ### Examples
